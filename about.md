@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Student at Iran University of Science and Technology
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Former student of Computer Olympiad 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[amirh.khali@gmail.com](mailto:amirh.khali@gmail.com)
