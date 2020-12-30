@@ -84,3 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+
+remote_theme: "dracula/gh-pages"
